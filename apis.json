@@ -1,0 +1,77 @@
+{
+    "name": "BugHerd",
+    "description": "Bug tracking so simple, it's like sticky-notes for your website. Free trial, get started today.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/718-bugherd.jpg",
+    "tags": [
+        "api provider",
+        "bug tracking",
+        "code",
+        "coding",
+        "have api",
+        "programming",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bugherd\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BugHerd",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/718-bugherd.jpg",
+            "humanURL": "http:\/\/www.bugherd.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bugherd-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bugherd-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.bugherd.com\/api_v2\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.bugherd.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.bugherd.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bugherd"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.bugherd.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@bugherd.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/BugHerd"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BugHerd"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bugherd.com"
+        }
+    ]
+}
